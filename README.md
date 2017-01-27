@@ -1,2 +1,6 @@
 # links-learning
-:link: A curated list of free resources :sparkles:
+:link: lista de links interessantes :sparkles:
+
+## Algoritmos 
+
+1. [Paulo Feofiloff](https://www.ime.usp.br/~pf/)
