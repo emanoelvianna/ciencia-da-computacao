@@ -10,6 +10,7 @@
 ## Compiladores
 
 1. [Nicolas Maillard](http://www.inf.ufrgs.br/~nicolas/compiler_slides_podcasts.html)
+2. [Fabio Mascarenhas](http://www.dcc.ufrj.br/~fabiom/comp20131/)
 
 ## Métodos computacionais
 
