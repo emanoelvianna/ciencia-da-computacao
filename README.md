@@ -16,6 +16,7 @@
 
 1. [Cálculo Numérico em Computadores](http://www.inf.ufsc.br/~r.fileto/Disciplinas/INE5202-2006-1/)
 
-## Matemática aplicada e estatística 
+## Matemática e estatística 
 
 1. [Marina Andretta](http://conteudo.icmc.usp.br/pessoas/andretta/ensino.html)
+1. [Antonio Alfredo Ferreira Loureiro](http://homepages.dcc.ufmg.br/~loureiro/md.html)
