@@ -1,4 +1,4 @@
-# links-learning
+# lista-interessante
 :link: lista de links interessantes :sparkles:
 
 ## Algoritmos, Complexidade e Otimização
