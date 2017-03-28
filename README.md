@@ -21,4 +21,5 @@
 1. [Marina Andretta](http://conteudo.icmc.usp.br/pessoas/andretta/ensino.html)
 2. [Antonio Alfredo Ferreira Loureiro](http://homepages.dcc.ufmg.br/~loureiro/md.html)
 3. [João Batista Carvalho](http://www.mat.ufrgs.br/~carvalho/ensino_disc.html)
+4. [Fernando Eduardo](http://www.ime.unicamp.br/~ftorres/)
 
