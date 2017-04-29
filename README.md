@@ -26,4 +26,5 @@
 4. [Fernando Eduardo](http://www.ime.unicamp.br/~ftorres/)
 5. [Marcelo Viana](http://w3.impa.br/~viana/)
 6. [Erich's Place](http://www2.stetson.edu/~efriedma/)
+6. [Sergio Pilling](http://www1.univap.br/spilling/)
 
