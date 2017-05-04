@@ -7,7 +7,11 @@
 2. [Siang Wun Song](https://www.ime.usp.br/~song/)
 3. [Marcus Ritt](http://www.inf.ufrgs.br/~MRPRITT/doku.php)
 4. [Zanoni Dias](http://www.ic.unicamp.br/~zanoni/)
-4. [André L. Vignatti](http://www.inf.ufpr.br/vignatti/)
+5. [André L. Vignatti](http://www.inf.ufpr.br/vignatti/)
+
+## Banco de Dados
+
+1. [Fernando De Siqueira](https://sites.google.com/site/uniplibancodedados1/home)
 
 ## Compiladores
 
