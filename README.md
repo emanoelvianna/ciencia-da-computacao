@@ -18,10 +18,6 @@
 1. [Nicolas Maillard](http://www.inf.ufrgs.br/~nicolas/compiler_slides_podcasts.html)
 2. [Fabio Mascarenhas](http://www.dcc.ufrj.br/~fabiom/comp20131/)
 
-## Métodos computacionais
-
-1. [Cálculo Numérico em Computadores](http://www.inf.ufsc.br/~r.fileto/Disciplinas/INE5202-2006-1/)
-
 ## Matemática e estatística 
 
 1. [Marina Andretta](http://conteudo.icmc.usp.br/pessoas/andretta/ensino.html)
@@ -30,5 +26,7 @@
 4. [Fernando Eduardo](http://www.ime.unicamp.br/~ftorres/)
 5. [Marcelo Viana](http://w3.impa.br/~viana/)
 6. [Erich's Place](http://www2.stetson.edu/~efriedma/)
-6. [Sergio Pilling](http://www1.univap.br/spilling/)
+7. [Sergio Pilling](http://www1.univap.br/spilling/)
+8. [Cálculo Numérico em Computadores](http://www.inf.ufsc.br/~r.fileto/Disciplinas/INE5202-2006-1/)
+9. [Luis Allan Künzle](http://www.inf.ufpr.br/kunzle/)
 
