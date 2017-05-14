@@ -29,4 +29,4 @@
 7. [Sergio Pilling](http://www1.univap.br/spilling/)
 8. [Cálculo Numérico em Computadores](http://www.inf.ufsc.br/~r.fileto/Disciplinas/INE5202-2006-1/)
 9. [Luis Allan Künzle](http://www.inf.ufpr.br/kunzle/)
-
+10. [Yara de souza Tadano](http://paginapessoal.utfpr.edu.br/yaratadano)
