@@ -1,7 +1,7 @@
 # lista-interessante
 :link: lista de links interessantes :sparkles:
 
-## Algoritmos, Complexidade e Otimização
+## Algoritmos, complexidade e otimização
 
 1. [Paulo Feofiloff](https://www.ime.usp.br/~pf/)
 2. [Siang Wun Song](https://www.ime.usp.br/~song/)
@@ -9,7 +9,7 @@
 4. [Zanoni Dias](http://www.ic.unicamp.br/~zanoni/)
 5. [André L. Vignatti](http://www.inf.ufpr.br/vignatti/)
 
-## Banco de Dados
+## Banco de dados
 
 1. [Fernando De Siqueira](https://sites.google.com/site/uniplibancodedados1/home)
 
@@ -18,7 +18,7 @@
 1. [Nicolas Maillard](http://www.inf.ufrgs.br/~nicolas/compiler_slides_podcasts.html)
 2. [Fabio Mascarenhas](http://www.dcc.ufrj.br/~fabiom/comp20131/)
 
-## Matemática e estatística 
+## Matemática, cálculo e estatística 
 
 1. [Marina Andretta](http://conteudo.icmc.usp.br/pessoas/andretta/ensino.html)
 2. [Antonio Alfredo Ferreira Loureiro](http://homepages.dcc.ufmg.br/~loureiro/md.html)
@@ -30,3 +30,4 @@
 8. [Cálculo Numérico em Computadores](http://www.inf.ufsc.br/~r.fileto/Disciplinas/INE5202-2006-1/)
 9. [Luis Allan Künzle](http://www.inf.ufpr.br/kunzle/)
 10. [Yara de souza Tadano](http://paginapessoal.utfpr.edu.br/yaratadano)
+10. [Carlos Henrique Q. Forster](http://www.comp.ita.br/~forster/)
