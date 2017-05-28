@@ -32,3 +32,9 @@
 10. [Yara de souza Tadano](http://paginapessoal.utfpr.edu.br/yaratadano)
 11. [Carlos Henrique Q. Forster](http://www.comp.ita.br/~forster/)
 12. [Alirio Santos de Sá](http://homes.dcc.ufba.br/~alirio/)
+
+
+## Redes de Computadores
+
+1. [Marcos Augusto Menezes Vieira](http://homepages.dcc.ufmg.br/~mmvieira/redes/redes.html)
+2. [Leonardo Barreto Campos](http://www.univasf.edu.br/~leonardo.campos/Disciplinas_Redes_I.htm)
