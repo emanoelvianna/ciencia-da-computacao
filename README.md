@@ -38,3 +38,8 @@
 
 1. [Marcos Augusto Menezes Vieira](http://homepages.dcc.ufmg.br/~mmvieira/redes/redes.html)
 2. [Leonardo Barreto Campos](http://www.univasf.edu.br/~leonardo.campos/Disciplinas_Redes_I.htm)
+
+
+## Processamento de imagem
+
+1. [Marcelo Gattass](https://webserver2.tecgraf.puc-rio.br/~mgattass/)
