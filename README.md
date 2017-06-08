@@ -43,3 +43,10 @@
 ## Processamento de imagem
 
 1. [Marcelo Gattass](https://webserver2.tecgraf.puc-rio.br/~mgattass/)
+
+## Sistemas Operacionais
+
+1. [Inês de Castro Dutra](https://www.dcc.fc.up.pt/~ines/aulas/0910/SO/SO.html)
+2. [Andreza Leite](http://www.univasf.edu.br/~andreza.leite/so.php)
+
+
