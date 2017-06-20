@@ -8,6 +8,7 @@
 3. [Marcus Ritt](http://www.inf.ufrgs.br/~MRPRITT/doku.php)
 4. [Zanoni Dias](http://www.ic.unicamp.br/~zanoni/)
 5. [André L. Vignatti](http://www.inf.ufpr.br/vignatti/)
+6. [Túlio Toffolo](http://www.decom.ufop.br/toffolo/)
 
 ## Banco de dados
 
