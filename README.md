@@ -9,6 +9,7 @@
 4. [Zanoni Dias](http://www.ic.unicamp.br/~zanoni/)
 5. [André L. Vignatti](http://www.inf.ufpr.br/vignatti/)
 6. [Túlio Toffolo](http://www.decom.ufop.br/toffolo/)
+7. [Mauricio Ayala Rincón](http://www.mat.unb.br/ayala/)
 
 ## Banco de dados
 
