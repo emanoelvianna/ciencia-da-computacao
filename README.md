@@ -1,5 +1,5 @@
 # lista-interessante
-:link: lista de links interessantes :sparkles:
+:link: lista de links interessantes para professores de determinadas áreas de conhecimento:sparkles:
 
 ## Algoritmos, complexidade e otimização
 
@@ -10,6 +10,10 @@
 5. [André L. Vignatti](http://www.inf.ufpr.br/vignatti/)
 6. [Túlio Toffolo](http://www.decom.ufop.br/toffolo/)
 7. [Mauricio Ayala Rincón](http://www.mat.unb.br/ayala/)
+
+## Inteligência Artificial
+
+1. [Denis D. Mauá](https://www.ime.usp.br/~ddm/mac425/cronograma.html)
 
 ## Banco de dados
 
@@ -35,7 +39,6 @@
 10. [Yara de souza Tadano](http://paginapessoal.utfpr.edu.br/yaratadano)
 11. [Carlos Henrique Q. Forster](http://www.comp.ita.br/~forster/)
 12. [Alirio Santos de Sá](http://homes.dcc.ufba.br/~alirio/)
-
 
 ## Redes de Computadores
 
