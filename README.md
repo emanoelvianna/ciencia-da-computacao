@@ -19,6 +19,7 @@
 
 1. [Fernando De Siqueira](https://sites.google.com/site/uniplibancodedados1/home)
 2. [Antonio Jr](http://antoniojr.webnode.com.br/disciplinas2/eng10734-gerenciamento-de-bd/)
+3. [Marco A. Casanova](http://www.ufpa.br/sampaio/curso_de_sbd/semin_sgbd/index.htm)
 
 ## Compiladores
 
