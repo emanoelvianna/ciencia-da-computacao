@@ -14,6 +14,7 @@
 ## Inteligência Artificial
 
 1. [Denis D. Mauá](https://www.ime.usp.br/~ddm/mac425/cronograma.html)
+1. [Jacson Rodrigues](http://jeiks.net/?p=1425)
 
 ## Banco de dados
 
