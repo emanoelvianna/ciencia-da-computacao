@@ -10,6 +10,7 @@
 5. [André L. Vignatti](http://www.inf.ufpr.br/vignatti/)
 6. [Túlio Toffolo](http://www.decom.ufop.br/toffolo/)
 7. [Mauricio Ayala Rincón](http://www.mat.unb.br/ayala/)
+8. [José Coelho de Pina](https://www.ime.usp.br/~coelho/)
 
 ## Inteligência Artificial
 
