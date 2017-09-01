@@ -48,6 +48,7 @@
 1. [Marcos Augusto Menezes Vieira](http://homepages.dcc.ufmg.br/~mmvieira/redes/redes.html)
 2. [Leonardo Barreto Campos](http://www.univasf.edu.br/~leonardo.campos/Disciplinas_Redes_I.htm)
 3. [fabrizzio](http://www.inf.ufg.br/~fabrizzio/tcpip/)
+4. [Juliana Freitag](http://www.ic.unicamp.br/~juliana/cursos/mc833/)
 
 ## Processamento de imagem
 
