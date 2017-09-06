@@ -24,8 +24,6 @@
 3. [Marco A. Casanova](http://www.ufpa.br/sampaio/curso_de_sbd/semin_sgbd/index.htm)
 4. [Eduardo Henrique](http://ehgomes.com.br/disciplinas/bdd/)
 
-http://ehgomes.com.br/disciplinas/bdd/
-
 ## Compiladores
 
 1. [Nicolas Maillard](http://www.inf.ufrgs.br/~nicolas/compiler_slides_podcasts.html)
