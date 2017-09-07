@@ -51,6 +51,7 @@
 3. [fabrizzio](http://www.inf.ufg.br/~fabrizzio/tcpip/)
 4. [Juliana Freitag](http://www.ic.unicamp.br/~juliana/cursos/mc833/)
 5. [Jackson Costa](https://docente.ifrn.edu.br/jeffersonduarte/disciplinas/redes-de-computadores-e-aplicacoes/aulas/)
+6. [Carlos Alberto Luz](http://paginas.unisul.br/carlos.luz//)
 
 ## Processamento de imagem
 
