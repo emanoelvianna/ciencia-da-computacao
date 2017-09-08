@@ -23,7 +23,9 @@
 2. [Antonio Jr](http://antoniojr.webnode.com.br/disciplinas2/eng10734-gerenciamento-de-bd/)
 3. [Marco A. Casanova](http://www.ufpa.br/sampaio/curso_de_sbd/semin_sgbd/index.htm)
 4. [Eduardo Henrique](http://ehgomes.com.br/disciplinas/bdd/)
-4. [Ilmério Reis](http://www.facom.ufu.br/~ilmerio/homepage/disciplinas.html)
+5. [Ilmério Reis](http://www.facom.ufu.br/~ilmerio/homepage/disciplinas.html)
+6. [Guilherme Tavares](http://www.decom.ufop.br/guilherme/)
+
 
 ## Compiladores
 
