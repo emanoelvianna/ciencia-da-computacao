@@ -56,6 +56,7 @@
 5. [Jackson Costa](https://docente.ifrn.edu.br/jeffersonduarte/disciplinas/redes-de-computadores-e-aplicacoes/aulas/)
 6. [Carlos Alberto Luz](http://paginas.unisul.br/carlos.luz/)
 7. [Marco Simões](http://masimoes.pro.br/site/redes/)
+8. [Varese S. Timoteo](https://www.ic.unicamp.br/~ripolito/peds/st564/)
 
 ## Processamento de imagem
 
