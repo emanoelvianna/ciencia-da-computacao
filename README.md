@@ -46,6 +46,7 @@
 10. [Yara de souza Tadano](http://paginapessoal.utfpr.edu.br/yaratadano)
 11. [Carlos Henrique Q. Forster](http://www.comp.ita.br/~forster/)
 12. [Alirio Santos de Sá](http://homes.dcc.ufba.br/~alirio/)
+13. [Sacha Friedli](http://www.mat.ufmg.br/~sacha/)
 
 ## Redes de Computadores
 
