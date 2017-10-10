@@ -26,6 +26,7 @@
 4. [Eduardo Henrique](http://ehgomes.com.br/disciplinas/bdd/)
 5. [Ilmério Reis](http://www.facom.ufu.br/~ilmerio/homepage/disciplinas.html)
 6. [Guilherme Tavares](http://www.decom.ufop.br/guilherme/)
+7. [Ilmério Reis da Silva](http://www.facom.ufu.br/~ilmerio/gbd2/gbd2_notasDeAula.html)
 
 
 ## Compiladores
