@@ -18,6 +18,7 @@
 2. [Jacson Rodrigues](http://jeiks.net/?p=1425)
 3. [Edirlei Soares](http://edirlei.3dgb.com.br/aulas/ia_2012_2/)
 4. [Leliane Nunes de Barros](https://www.ime.usp.br/~leliane/)
+5. [Paulo Martins](http://www.inf.ufrgs.br/~engel/doku.php?id=disciplinas)
 
 ## Banco de dados
 
