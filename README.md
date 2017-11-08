@@ -63,6 +63,7 @@
 7. [Marco Simões](http://masimoes.pro.br/site/redes/)
 8. [Varese S. Timoteo](https://www.ic.unicamp.br/~ripolito/peds/st564/)
 9. [José Gonçalves](https://inf.ufes.br/~zegonc/Jose%20Goncalves%20-%20Ensino%202017-2%20-%20Redes%20de%20Computadores.html)
+10. [João Henrique](http://professor.ufabc.edu.br/~joao.kleinschmidt/)
 
 ## Processamento de imagem
 
