@@ -52,6 +52,7 @@
 11. [Carlos Henrique Q. Forster](http://www.comp.ita.br/~forster/)
 12. [Alirio Santos de Sá](http://homes.dcc.ufba.br/~alirio/)
 13. [Sacha Friedli](http://www.mat.ufmg.br/~sacha/)
+14. [Nicolas Puignau](http://www.im.ufrj.br/~puignau/ensino_passado)
 
 ## Redes de Computadores
 
