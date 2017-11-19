@@ -68,6 +68,7 @@
 9. [José Gonçalves](https://inf.ufes.br/~zegonc/Jose%20Goncalves%20-%20Ensino%202017-2%20-%20Redes%20de%20Computadores.html)
 10. [João Henrique](http://professor.ufabc.edu.br/~joao.kleinschmidt/)
 11. [Manuel Alberto](https://web.fe.up.pt/~mricardo/02_03/cm/)
+12. [Artur Arsenio](https://fenix.tecnico.ulisboa.pt/disciplinas/RC3/2010-2011/1-semestre/aulas-teoricas)
 
 ## Processamento de imagem
 
