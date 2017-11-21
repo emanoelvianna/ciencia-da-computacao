@@ -70,7 +70,7 @@
 11. [Manuel Alberto](https://web.fe.up.pt/~mricardo/02_03/cm/)
 12. [Artur Arsenio](https://fenix.tecnico.ulisboa.pt/disciplinas/RC3/2010-2011/1-semestre/aulas-teoricas)
 13. [Luís Henrique](https://www.gta.ufrj.br/ensino/eel879/)
-
+14. [Edgard Jamhour](https://www.ppgia.pucpr.br/~jamhour/Pessoal/Atual/)
 
 ## Processamento de imagem
 
