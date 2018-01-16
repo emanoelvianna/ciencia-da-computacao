@@ -19,6 +19,7 @@
 3. [Edirlei Soares](http://edirlei.3dgb.com.br/aulas/ia_2012_2/)
 4. [Leliane Nunes de Barros](https://www.ime.usp.br/~leliane/)
 5. [Paulo Martins](http://www.inf.ufrgs.br/~engel/doku.php?id=disciplinas)
+6. [Jomi Fred Hübner](http://jomi.das.ufsc.br/mas/)
 
 ## Banco de dados
 
