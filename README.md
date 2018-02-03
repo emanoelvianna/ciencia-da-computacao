@@ -11,6 +11,7 @@
 6. [Túlio Toffolo](http://www.decom.ufop.br/toffolo/)
 7. [Mauricio Ayala Rincón](http://www.mat.unb.br/ayala/)
 8. [José Coelho de Pina](https://www.ime.usp.br/~coelho/)
+9. [Jelani Nelson](http://people.seas.harvard.edu/~minilek/)
 
 ## Inteligência Artificial
 
