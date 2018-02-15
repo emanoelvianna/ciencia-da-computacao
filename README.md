@@ -55,7 +55,8 @@
 12. [Alirio Santos de Sá](http://homes.dcc.ufba.br/~alirio/)
 13. [Sacha Friedli](http://www.mat.ufmg.br/~sacha/)
 14. [Nicolas Puignau](http://www.im.ufrj.br/~puignau/ensino_passado)
-14. [Sérgio de Albuquerque](http://www.mat.ufpb.br/sergio/provas/me_i/)
+15. [Sérgio de Albuquerque](http://www.mat.ufpb.br/sergio/provas/me_i/)
+16. [Emanuel Carneiro](http://carneiro.impa.br/)
 
 ## Redes de Computadores
 
