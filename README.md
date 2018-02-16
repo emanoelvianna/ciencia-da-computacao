@@ -21,6 +21,7 @@
 4. [Leliane Nunes de Barros](https://www.ime.usp.br/~leliane/)
 5. [Paulo Martins](http://www.inf.ufrgs.br/~engel/doku.php?id=disciplinas)
 6. [Jomi Fred Hübner](http://jomi.das.ufsc.br/mas/)
+7. [Fernando Osório](http://conteudo.icmc.usp.br/pessoas/fosorio/fosorio-usp.html)
 
 ## Banco de dados
 
