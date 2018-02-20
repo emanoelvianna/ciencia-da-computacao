@@ -14,6 +14,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 7. [Mauricio Ayala Rincón](http://www.mat.unb.br/ayala/)
 8. [José Coelho de Pina](https://www.ime.usp.br/~coelho/)
 9. [Jelani Nelson](http://people.seas.harvard.edu/~minilek/)
+10. [Rafael C. S. Schouery](https://www.ic.unicamp.br/~rafael/)
 
 ## Inteligência Artificial
 
