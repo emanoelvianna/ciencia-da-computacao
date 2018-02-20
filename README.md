@@ -15,6 +15,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 8. [José Coelho de Pina](https://www.ime.usp.br/~coelho/)
 9. [Jelani Nelson](http://people.seas.harvard.edu/~minilek/)
 10. [Rafael C. S. Schouery](https://www.ic.unicamp.br/~rafael/)
+11. [Orlando Lee](https://www.ic.unicamp.br/~lee/)
 
 ## Inteligência Artificial
 
