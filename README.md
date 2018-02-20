@@ -26,6 +26,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 5. [Paulo Martins](http://www.inf.ufrgs.br/~engel/doku.php?id=disciplinas)
 6. [Jomi Fred Hübner](http://jomi.das.ufsc.br/mas/)
 7. [Fernando Osório](http://conteudo.icmc.usp.br/pessoas/fosorio/fosorio-usp.html)
+8. [Luis Paulo](https://paginas.fe.up.pt/~lpreis/)
 
 ## Banco de dados
 
