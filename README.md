@@ -63,6 +63,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 14. [Nicolas Puignau](http://www.im.ufrj.br/~puignau/ensino_passado)
 15. [Sérgio de Albuquerque](http://www.mat.ufpb.br/sergio/provas/me_i/)
 16. [Emanuel Carneiro](http://carneiro.impa.br/)
+17. [Edna Afonso Reis](http://www.est.ufmg.br/~edna/)
 
 ## Redes de Computadores
 
