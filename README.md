@@ -64,6 +64,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 15. [Sérgio de Albuquerque](http://www.mat.ufpb.br/sergio/provas/me_i/)
 16. [Emanuel Carneiro](http://carneiro.impa.br/)
 17. [Edna Afonso Reis](http://www.est.ufmg.br/~edna/)
+18. [Dirceu Melo](https://ead.ifba.edu.br/course/view.php?id=359)
 
 ## Redes de Computadores
 
