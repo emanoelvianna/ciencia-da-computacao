@@ -27,6 +27,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 6. [Jomi Fred Hübner](http://jomi.das.ufsc.br/mas/)
 7. [Fernando Osório](http://conteudo.icmc.usp.br/pessoas/fosorio/fosorio-usp.html)
 8. [Luis Paulo](https://paginas.fe.up.pt/~lpreis/)
+9. [Pablo Sampaio](https://sites.google.com/site/profpablosampaio/)
 
 ## Banco de dados
 
