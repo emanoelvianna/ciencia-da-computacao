@@ -93,4 +93,8 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 1. [Inês de Castro Dutra](https://www.dcc.fc.up.pt/~ines/aulas/0910/SO/SO.html)
 2. [Andreza Leite](http://www.univasf.edu.br/~andreza.leite/so.php)
 
+## Geoprocessamento
+
+http://homepages.dcc.ufmg.br/~clodoveu
+
 
