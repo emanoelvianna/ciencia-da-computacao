@@ -66,6 +66,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 16. [Emanuel Carneiro](http://carneiro.impa.br/)
 17. [Edna Afonso Reis](http://www.est.ufmg.br/~edna/)
 18. [Dirceu Melo](https://ead.ifba.edu.br/course/view.php?id=359)
+19. [João Carvalho](http://www.mat.ufrgs.br/~numerico/)
 
 ## Redes de Computadores
 
