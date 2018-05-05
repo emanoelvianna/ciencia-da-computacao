@@ -84,6 +84,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 12. [Artur Arsenio](https://fenix.tecnico.ulisboa.pt/disciplinas/RC3/2010-2011/1-semestre/aulas-teoricas)
 13. [Luís Henrique](https://www.gta.ufrj.br/ensino/eel879/)
 14. [Edgard Jamhour](https://www.ppgia.pucpr.br/~jamhour/Pessoal/Atual/)
+15. [João Sobral](http://www.inf.ufsc.br/~bosco.sobral/)
 
 ## Processamento de imagem
 
