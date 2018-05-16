@@ -67,6 +67,8 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 17. [Edna Afonso Reis](http://www.est.ufmg.br/~edna/)
 18. [Dirceu Melo](https://ead.ifba.edu.br/course/view.php?id=359)
 19. [João Carvalho](http://www.mat.ufrgs.br/~numerico/)
+20. [Erivelton Nepomuceno](https://ufsj.edu.br/nepomuceno/)
+21. [Eduardo Valle's](https://www.ime.unicamp.br/~valle/)
 
 ## Redes de Computadores
 
