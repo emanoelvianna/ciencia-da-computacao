@@ -16,6 +16,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 9. [Jelani Nelson](http://people.seas.harvard.edu/~minilek/)
 10. [Rafael C. S. Schouery](https://www.ic.unicamp.br/~rafael/)
 11. [Orlando Lee](https://www.ic.unicamp.br/~lee/)
+12. [Erik Demaine](http://erikdemaine.org/)
 
 ## Inteligência Artificial
 
