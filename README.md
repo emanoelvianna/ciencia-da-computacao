@@ -70,6 +70,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 19. [João Carvalho](http://www.mat.ufrgs.br/~numerico/)
 20. [Erivelton Nepomuceno](https://ufsj.edu.br/nepomuceno/)
 21. [Eduardo Valle's](https://www.ime.unicamp.br/~valle/)
+22. [Adriano Barbosa](http://barbosaaob.github.io/)
 
 ## Redes de Computadores
 
