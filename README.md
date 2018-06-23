@@ -71,6 +71,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 20. [Erivelton Nepomuceno](https://ufsj.edu.br/nepomuceno/)
 21. [Eduardo Valle's](https://www.ime.unicamp.br/~valle/)
 22. [Adriano Barbosa](http://barbosaaob.github.io/)
+23. [Ricardo Biloti](https://www.ime.unicamp.br/~biloti/index.html)
 
 ## Redes de Computadores
 
