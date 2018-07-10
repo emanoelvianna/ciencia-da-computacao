@@ -104,4 +104,8 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 
 1. [Clodoveu A. Davis Jr](http://homepages.dcc.ufmg.br/~clodoveu)
 
+## Bioinformática, Biologia de Sistemas e Biologia Computacional
+
+1. [Mariana Mendoza](http://www.inf.ufrgs.br/~mrmendoza/)
+
 
