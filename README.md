@@ -72,6 +72,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 21. [Eduardo Valle's](https://www.ime.unicamp.br/~valle/)
 22. [Adriano Barbosa](http://barbosaaob.github.io/)
 23. [Ricardo Biloti](https://www.ime.unicamp.br/~biloti/index.html)
+24. [Carlos Santos](http://w3.impa.br/~cmateus/index.html)
 
 ## Redes de Computadores
 
