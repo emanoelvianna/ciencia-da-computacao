@@ -1,5 +1,5 @@
 # lista-interessante
-:link: lista de links interessantes para professores de determinadas áreas de conhecimento:sparkles:
+:link: Lista de links interessantes para professores de determinadas áreas de conhecimento.:sparkles:
 
 O objetivo do repositório é juntar links que irão redirecionar para páginas de professores de várias universidades do Brasil e de outros países. Na grande maioria dos links você consegue encontrar em qual instituição ele está vinculado, áreas de atuação, conteúdos de aula, publicações realizadas e referências biográficas utilizadas nas aulas ministradas. 
 
