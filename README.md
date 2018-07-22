@@ -17,6 +17,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 10. [Rafael C. S. Schouery](https://www.ic.unicamp.br/~rafael/)
 11. [Orlando Lee](https://www.ic.unicamp.br/~lee/)
 12. [Erik Demaine](http://erikdemaine.org/)
+13. [João Batista Oliveira](http://www.inf.pucrs.br/oliveira/)
 
 ## Inteligência Artificial
 
@@ -73,6 +74,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 22. [Adriano Barbosa](http://barbosaaob.github.io/)
 23. [Ricardo Biloti](https://www.ime.unicamp.br/~biloti/index.html)
 24. [Carlos Santos](http://w3.impa.br/~cmateus/index.html)
+25. [Beatriz Franciosi](http://www.inf.pucrs.br/bea/)
 
 ## Redes de Computadores
 
