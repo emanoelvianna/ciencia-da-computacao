@@ -1,9 +1,24 @@
 # lista-interessante
 :link: Lista de links interessantes para professores de determinadas áreas de conhecimento.:sparkles:
 
-O objetivo do repositório é juntar links que irão redirecionar para páginas de professores de várias universidades do Brasil e de outros países. Na grande maioria dos links você consegue encontrar em qual instituição ele está vinculado, áreas de atuação, conteúdos de aula, publicações realizadas e referências biográficas utilizadas nas aulas ministradas. 
+O objetivo do repositório é juntar links que irão redirecionar para páginas de professores de várias universidades do Brasil. Na grande maioria dos links você consegue encontrar em qual instituição ele está vinculado, áreas de atuação, conteúdos de aula, publicações realizadas e referências biográficas utilizadas nas aulas ministradas.
 
-## Algoritmos, complexidade e otimização
+## Sumário do contéudo
+
+* [Algoritmos](#algoritmos)
+* [Inteligência Artificial](#inteligência-artificial)
+* [Banco de Dados](#banco-de-dados)
+* [Compiladores](#compiladores)
+* [Matemática](#matemática)
+* [Redes de Computadores](#redes-de-computadores)
+* [Processamento de Imagem](#processamento-de-imagem)
+* [Sistemas Operacionais](#sistemas-operacionais)
+* [Geoprocessamento](#geoprocessamento)
+* [Biologia Computacional](#biologia-computacional)
+
+<article id="algoritmos">
+  
+## Algoritmos
 
 1. [Paulo Feofiloff](https://www.ime.usp.br/~pf/)
 2. [Siang Wun Song](https://www.ime.usp.br/~song/)
@@ -19,6 +34,10 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 12. [Erik Demaine](http://erikdemaine.org/)
 13. [João Batista Oliveira](http://www.inf.pucrs.br/oliveira/)
 
+</article>
+
+<article id="inteligência-artificial">
+  
 ## Inteligência Artificial
 
 1. [Denis D. Mauá](https://www.ime.usp.br/~ddm/mac425/cronograma.html)
@@ -31,6 +50,10 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 8. [Luis Paulo](https://paginas.fe.up.pt/~lpreis/)
 9. [Pablo Sampaio](https://sites.google.com/site/profpablosampaio/)
 
+</article>
+
+<article id="banco-de-dados">
+
 ## Banco de dados
 
 1. [Fernando De Siqueira](https://sites.google.com/site/uniplibancodedados1/home)
@@ -42,13 +65,20 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 7. [Ilmério Reis da Silva](http://www.facom.ufu.br/~ilmerio/gbd2/gbd2_notasDeAula.html)
 8. [André Santanchè](https://www.ic.unicamp.br/~santanch/teaching/db/2016-2/index.html)
 
+</article>
+
+<article id="compiladores">
 
 ## Compiladores
 
 1. [Nicolas Maillard](http://www.inf.ufrgs.br/~nicolas/compiler_slides_podcasts.html)
 2. [Fabio Mascarenhas](http://www.dcc.ufrj.br/~fabiom/comp20131/)
 
-## Matemática, cálculo e estatística 
+</article>
+
+<article id="matemática">
+
+## Matemática 
 
 1. [Marina Andretta](http://conteudo.icmc.usp.br/pessoas/andretta/ensino.html)
 2. [Antonio Alfredo Ferreira Loureiro](http://homepages.dcc.ufmg.br/~loureiro/md.html)
@@ -77,6 +107,10 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 25. [Beatriz Franciosi](http://www.inf.pucrs.br/bea/)
 25. [Mauro Roisenberg](http://www.inf.ufsc.br/~mauro.roisenberg/)
 
+</article>
+
+<article id="redes-de-computadores">
+
 ## Redes de Computadores
 
 1. [Marcos Augusto Menezes Vieira](http://homepages.dcc.ufmg.br/~mmvieira/redes/redes.html)
@@ -95,21 +129,37 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 14. [Edgard Jamhour](https://www.ppgia.pucpr.br/~jamhour/Pessoal/Atual/)
 15. [João Sobral](http://www.inf.ufsc.br/~bosco.sobral/)
 
+</article>
+
+<article id="processamento-de-imagem">
+
 ## Processamento de imagem
 
 1. [Marcelo Gattass](https://webserver2.tecgraf.puc-rio.br/~mgattass/)
 
+</article>
+
+<article id="sistemas-operacionais">
+  
 ## Sistemas Operacionais
 
 1. [Inês de Castro Dutra](https://www.dcc.fc.up.pt/~ines/aulas/0910/SO/SO.html)
 2. [Andreza Leite](http://www.univasf.edu.br/~andreza.leite/so.php)
 
+</article>
+
+<article id="geoprocessamento">
+  
 ## Geoprocessamento
 
 1. [Clodoveu A. Davis Jr](http://homepages.dcc.ufmg.br/~clodoveu)
 
-## Bioinformática, Biologia de Sistemas e Biologia Computacional
+</article>
+
+<article id="biologia-computacional">
+
+## Biologia Computacional
 
 1. [Mariana Mendoza](http://www.inf.ufrgs.br/~mrmendoza/)
 
-
+</article>
