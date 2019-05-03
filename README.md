@@ -105,7 +105,8 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 23. [Ricardo Biloti](https://www.ime.unicamp.br/~biloti/index.html)
 24. [Carlos Santos](http://w3.impa.br/~cmateus/index.html)
 25. [Beatriz Franciosi](http://www.inf.pucrs.br/bea/)
-25. [Mauro Roisenberg](http://www.inf.ufsc.br/~mauro.roisenberg/)
+26. [Mauro Roisenberg](http://www.inf.ufsc.br/~mauro.roisenberg/)
+27. [Simão Melo de Sousa](http://www.di.ubi.pt/~desousa/)
 
 </article>
 
