@@ -107,6 +107,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 25. [Beatriz Franciosi](http://www.inf.pucrs.br/bea/)
 26. [Mauro Roisenberg](http://www.inf.ufsc.br/~mauro.roisenberg/)
 27. [Simão Melo de Sousa](http://www.di.ubi.pt/~desousa/)
+27. [Sérgio de Albuquerque Souza](http://www.mat.ufpb.br/sergio/)
 
 </article>
 
