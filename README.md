@@ -64,6 +64,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 6. [Guilherme Tavares](http://www.decom.ufop.br/guilherme/)
 7. [Ilmério Reis da Silva](http://www.facom.ufu.br/~ilmerio/gbd2/gbd2_notasDeAula.html)
 8. [André Santanchè](https://www.ic.unicamp.br/~santanch/teaching/db/2016-2/index.html)
+9. [Elaine Ribeiro de Faria](http://www.facom.ufu.br/~elaine/)
 
 </article>
 
