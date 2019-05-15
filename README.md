@@ -40,7 +40,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
   
 ## Inteligência Artificial
 
-1. [Denis D. Mauá](https://www.ime.usp.br/~ddm/mac425/cronograma.html)
+1. [Denis D. Mauá](https://www.ime.usp.br/~ddm/)
 2. [Jacson Rodrigues](http://jeiks.net/?p=1425)
 3. [Edirlei Soares](http://edirlei.3dgb.com.br/aulas/ia_2012_2/)
 4. [Leliane Nunes de Barros](https://www.ime.usp.br/~leliane/)
