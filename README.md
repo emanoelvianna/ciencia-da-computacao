@@ -34,6 +34,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 12. [Erik Demaine](http://erikdemaine.org/)
 13. [João Batista Oliveira](http://www.inf.pucrs.br/oliveira/)
 14. [Osvaldo Oliveira](http://www.faccamp.br/osvaldo/)
+15. [Fernando M. A. Silva](https://www.dcc.fc.up.pt/~fds/)
 
 </article>
 
