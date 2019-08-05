@@ -80,6 +80,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 
 1. [Nicolas Maillard](http://www.inf.ufrgs.br/~nicolas/compiler_slides_podcasts.html)
 2. [Fabio Mascarenhas](http://www.dcc.ufrj.br/~fabiom/comp20131/)
+3. [José Malaquias](http://www.decom.ufop.br/romildo/)
 
 </article>
 
