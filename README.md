@@ -39,6 +39,8 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 17. [David Menottis](http://www.decom.ufop.br/menotti/)
 18. [Jeff Erickson](http://jeffe.cs.illinois.edu/)
 19. [Edirlei Lima](http://edirlei.3dgb.com.br/)
+20. [Fábio Protti](http://www.ic.uff.br/~fabio/)
+21. [Marco Carvalho](http://www.decom.ufop.br/marco/)
 
 </article>
 
