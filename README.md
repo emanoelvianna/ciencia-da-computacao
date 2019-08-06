@@ -38,6 +38,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 16. [Ana Almeida](http://www.mat.uc.pt/~amca/)
 17. [David Menottis](http://www.decom.ufop.br/menotti/)
 18. [Jeff Erickson](http://jeffe.cs.illinois.edu/)
+19. [Edirlei Lima](http://edirlei.3dgb.com.br/)
 
 </article>
 
