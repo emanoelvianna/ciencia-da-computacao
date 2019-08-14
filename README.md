@@ -15,6 +15,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 * [Sistemas Operacionais](#sistemas-operacionais)
 * [Geoprocessamento](#geoprocessamento)
 * [Biologia Computacional](#biologia-computacional)
+* [Teoria da Computação](#teoria-computação)
 
 <article id="algoritmos">
   
@@ -174,5 +175,11 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 ## Biologia Computacional
 
 1. [Mariana Mendoza](http://www.inf.ufrgs.br/~mrmendoza/)
+
+<article id="teoria-computação">
+
+## Teoria da Computação
+
+1. [Ricardo Silva](http://www.dainf.ct.utfpr.edu.br/~rdutra/index.html)
 
 </article>
