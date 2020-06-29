@@ -175,6 +175,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 ## Biologia Computacional
 
 1. [Mariana Mendoza](http://www.inf.ufrgs.br/~mrmendoza/)
+2. [Macks Gonçalves](http://professor.pucgoias.edu.br/SiteDocente/home/professor.asp?key=18497)
 
 <article id="teoria-computação">
 
