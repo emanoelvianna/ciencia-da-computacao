@@ -58,6 +58,9 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 7. [Fernando Osório](http://conteudo.icmc.usp.br/pessoas/fosorio/fosorio-usp.html)
 8. [Luis Paulo](https://paginas.fe.up.pt/~lpreis/)
 9. [Pablo Sampaio](https://sites.google.com/site/profpablosampaio/)
+10. [Alessandro Koerich](http://www.ppgia.pucpr.br/~alekoe/pt/index.html)
+11. [Fabricio França](https://folivetti.github.io/)
+12. [Ronaldo Prati](http://professor.ufabc.edu.br/~ronaldo.prati/)
 
 </article>
 
