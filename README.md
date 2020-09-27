@@ -61,6 +61,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 10. [Alessandro Koerich](http://www.ppgia.pucpr.br/~alekoe/pt/index.html)
 11. [Fabricio França](https://folivetti.github.io/)
 12. [Ronaldo Prati](http://professor.ufabc.edu.br/~ronaldo.prati/)
+13. [José Von Zuben's](http://www.dca.fee.unicamp.br/~vonzuben/)
 
 </article>
 
