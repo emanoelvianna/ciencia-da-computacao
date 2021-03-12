@@ -62,6 +62,7 @@ O objetivo do repositório é juntar links que irão redirecionar para páginas 
 11. [Fabricio França](https://folivetti.github.io/)
 12. [Ronaldo Prati](http://professor.ufabc.edu.br/~ronaldo.prati/)
 13. [José Von Zuben's](http://www.dca.fee.unicamp.br/~vonzuben/)
+14. [José Augusto](https://dcm.ffclrp.usp.br/~augusto/)
 
 </article>
 
